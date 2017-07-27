@@ -24,5 +24,5 @@ class BasicLoadSimulation extends Simulation {
 
   setUp(scn.inject(
     rampUsers(500) over (10 minutes))
-    .throttle(reachRps(100) in (10 seconds), holdFor(30 minutes))).protocols(httpConf)
+    .throttle(reachRps(5) in (10 seconds), holdFor(30 minutes))).protocols(httpConf)
 }

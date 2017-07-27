@@ -56,11 +56,11 @@ blogPostsGet
 /blogPosts/59722e45977c8a50c402d4eb
 /blogPosts/59722e4574a6f3b1402cdde2
 /blogPosts/59722e45dcf075b1651bf97d
-/blogPosts/blogPosts?locale=en_GB
-/blogPosts/blogPosts?locale=en_IN
-/blogPosts/blogPosts?locale=en_US
-/blogPosts/blogPosts?locale=nl_BE
-/blogPosts/blogPosts?locale=fr_BE
+/blogPosts?locale=en_GB
+/blogPosts?locale=en_IN
+/blogPosts?locale=en_US
+/blogPosts?locale=nl_BE
+/blogPosts?locale=fr_BE
 /blogPosts?category=travel
 /blogPosts?category=food
 /blogPosts?category=photography
